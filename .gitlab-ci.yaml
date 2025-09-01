@@ -1,0 +1,26 @@
+stages:
+  - test
+
+variables:
+  NODE_ENV: 'test'
+  PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
+
+cache:
+  paths:
+    - node_modules/
+
+before_script:
+  - rm -rf allure-results allure-report 
+  - npm ci
+  - npx playwright install --with-deps
+
+aws_test:
+  stage: test
+  tags:
+    - aws
+  script:
+    - npm run test:allure
+  artifacts:
+    paths:
+      - allure-report
+    expire_in: 1 week

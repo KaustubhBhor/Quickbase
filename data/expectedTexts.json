@@ -1,0 +1,5 @@
+{
+  "moveTablePopupLine1": "Are you sure you want to move the ",
+  "moveTablePopupLine2": "This will create a new app from the table and remove it from this app. It will not delete any data from the table.",
+  "moveTablePopupLine3": "Moving a table will invalidate all relationships and data connections to the table. Moving a table invalidates all relationships and permanently disconnects data services."
+}

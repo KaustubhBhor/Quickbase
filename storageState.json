@@ -1,0 +1,407 @@
+{
+  "cookies": [
+    {
+      "name": "UUID",
+      "value": "01f11156-1035-4268-b60d-5c6d84761dd8",
+      "domain": "team.quickbase.com",
+      "path": "/nav/app/bvd4mrkt6/action",
+      "expires": 1759262631,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "browserCharset",
+      "value": "windows-1252",
+      "domain": "team.quickbase.com",
+      "path": "/nav/app/bvd4mrkt6/action",
+      "expires": 1757360265,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "commonVars",
+      "value": "~qlb=v2~",
+      "domain": "team.quickbase.com",
+      "path": "/db/",
+      "expires": 1765395478.868461,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "commonVars",
+      "value": "~qlb=v2~",
+      "domain": "team.ui.quickbase.com",
+      "path": "/db/",
+      "expires": 1765395480.148925,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "UUID",
+      "value": "6a6f247f-7334-4394-b99f-a8d1a5780f5e",
+      "domain": "team.quickbase.com",
+      "path": "/db",
+      "expires": 1759262579,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "browserCharset",
+      "value": "windows-1252",
+      "domain": "team.quickbase.com",
+      "path": "/db",
+      "expires": 1757330630,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "shouldInitializeMetrics",
+      "value": "true",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pendo_unsentEvents.09267810-0233-4b58-65b5-6f5f6145f867",
+      "value": "",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pendo_visitorId.09267810-0233-4b58-65b5-6f5f6145f867",
+      "value": "",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pendo_accountId.3719929843",
+      "value": "237857",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1765395472,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pendo_meta.09267810-0233-4b58-65b5-6f5f6145f867",
+      "value": "",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pendo_oldVisitorId.09267810-0233-4b58-65b5-6f5f6145f867",
+      "value": "",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "SAMLOrCustom",
+      "value": "CustomSSO",
+      "domain": "team.quickbase.com",
+      "path": "/",
+      "expires": 1791285844.721685,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "lrealm",
+      "value": "uyp",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1759317844.721717,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "luid",
+      "value": "67931088.drta",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1791230629.908339,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pendo_sessionId.09267810-0233-4b58-65b5-6f5f6145f867",
+      "value": "",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "TICKET_team.quickbase.com",
+      "value": "9_bved3sugp_ca3c8s_uyp_a_-b_cj6ki6wdw9dyz2bvdridchyx7sycipprpsb2ke8pnds4kepccaq3ege_javpmp5",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TICKET",
+      "value": "9_bved3sugp_ca3c8s_uyp_a_-b_cj6ki6wdw9dyz2bvdridchyx7sycipprpsb2ke8pnds4kepccaq3ege_javpmp5",
+      "domain": "team.quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "confmsg",
+      "value": "",
+      "domain": "team.quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pendo_visitorId.3719929843",
+      "value": "67931088%3Aquickbase.com",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1765395472,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pendo_oldVisitorId.3719929843",
+      "value": "_PENDO_T_amnUQvJub8z",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1765365852,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pendo___sg__.09267810-0233-4b58-65b5-6f5f6145f867",
+      "value": "%7B%22visitormetadata%22%3A%7B%22agent__qbancestorappid%22%3A%22bt6dw4u6n%22%2C%22agent__qbcurrentappid%22%3A%22bvd4mrkt6%22%2C%22agent__qbiscurrentappadmin%22%3Atrue%2C%22agent__qbisintrial%22%3Afalse%7D%7D",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1765395472,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pendo_feedback_notification_count.09267810-0233-4b58-65b5-6f5f6145f867",
+      "value": "0",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1765395473,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ptest",
+      "value": "1756755464368",
+      "domain": "team.quickbase.com",
+      "path": "/",
+      "expires": 1791315464.890559,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stest",
+      "value": "1756755464368",
+      "domain": "team.quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "G5PLDeaC6Ri0EWjO3FB7Nu3.1n_F5VCsVFiZFViYXnY-1756755466-1.2.1.1-oj8umQ5PBtEhczkKXOeE8bm53ObX8v74yh3tz9YXH3NzpiyjsSiPYA8i32afKl05JzqO6Ze1lz4zcuXsTi5vevjW6fTb9XQhs9tZJPRqPhdA9VPHlVmN2yRP_W8XvEnvoj8OHqYaIt_PyOBNrm1eWXZrWZvlTkN2ecAmF8W1f1O4icQVJfYMieuuMbIvumi51VPJaeJNxk9s0i9EjSwBGUQqbFIjt3wnurXPYdaL0uU",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1788291466.468764,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://quickbase.com",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "responsiveWindowSizeObjectCookie",
+      "value": "{%22small%22:false%2C%22xSmall%22:false%2C%22xxSmall%22:false}",
+      "domain": ".team.quickbase.com",
+      "path": "/",
+      "expires": 1756759072,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pendo_utm.09267810-0233-4b58-65b5-6f5f6145f867",
+      "value": "",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pendo_utm.3719929843",
+      "value": "%7B%22channel%22%3A%22Direct%22%7D",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1765395472,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pendo_feedback_ping_sent.09267810-0233-4b58-65b5-6f5f6145f867",
+      "value": "%7B%22jwt%22%3A%22eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50Ijp7ImlkIjoiMjM3ODU3In0sIm5vbmNlIjoiOWU5MDYwOGY4NzA0ODBjOTJlZTgwZTJkZTU5YTZlMzQiLCJ2aXNpdG9yIjp7ImVtYWlsIjoia2F1c3R1YmguYmhvckBvdXRsb29rLmNvbSIsImZ1bGxfbmFtZSI6IkthdXN0dWJoIEJob3IiLCJpZCI6IjY3OTMxMDg4OnF1aWNrYmFzZS5jb20iLCJxYkFuY2VzdG9yQXBwSWQiOiJidDZkdzR1Nm4iLCJxYkN1cnJlbnRBcHBJZCI6ImJ2ZDRtcmt0NiIsInFiSGFzRXZlckhhZEFwcEFkbWluIjp0cnVlLCJxYkhhc1BpcGVsaW5lc0FjY2VzcyI6dHJ1ZSwicWJJc0N1cnJlbnRBcHBBZG1pbiI6dHJ1ZSwicWJJc0luVHJpYWwiOmZhbHNlLCJxYlJlYWxtTmFtZSI6InRlYW0iLCJxYlJvb3REb21haW4iOiJxdWlja2Jhc2UuY29tIiwicWJVc2VySWQiOjY3OTMxMDg4fX0.Vkde_pAjARbu5NtgnsDRT8ZZOxZuH_e44wPHqdycWTQ%22%2C%22signingKeyName%22%3A%22quic-quic-Va3sV%22%2C%22vendor%22%3A%7B%22id%22%3A%223ea4fa5d-2739-4262-ab84-252179156573%22%7D%2C%22allowed_products%22%3A%5B%7B%22id%22%3A%223c9d7e83-da43-482e-a58c-14265037ecd0%22%7D%5D%7D",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1756759072,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pendo_meta.3719929843",
+      "value": "2650995562",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1765395472,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "_pendo_guides_blocked.09267810-0233-4b58-65b5-6f5f6145f867",
+      "value": "0",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1756769874,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "ptest",
+      "value": "1756755476250",
+      "domain": "team.ui.quickbase.com",
+      "path": "/",
+      "expires": 1791315476.437412,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "stest",
+      "value": "1756755476250",
+      "domain": "team.ui.quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_pendo_sessionId.3719929843",
+      "value": "%7B%22sessionId%22%3A%223jHxiGjc6tL0D7VS%22%2C%22timestamp%22%3A1756755477608%7D",
+      "domain": ".quickbase.com",
+      "path": "/",
+      "expires": 1765395477,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "sbIID",
+      "value": "2607c385-561a-9b3c-8202-f45d8ee85990",
+      "domain": "team.quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sbIID",
+      "value": "2ac1e86f-c3d0-97de-a176-3db336ee656e",
+      "domain": "team.ui.quickbase.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://team.quickbase.com",
+      "localStorage": [
+        {
+          "name": "ld:null:$diagnostics",
+          "value": "{\"dataSinceDate\":1756755471903,\"droppedEvents\":0,\"eventsInLastBatch\":0,\"streamInits\":[]}"
+        },
+        {
+          "name": "ld:5c7995f5868c9123456d7483:$diagnostics",
+          "value": "{\"dataSinceDate\":1756755471612,\"droppedEvents\":0,\"eventsInLastBatch\":0,\"streamInits\":[]}"
+        },
+        {
+          "name": "lscache-qb/sessionExpiration-cacheexpiration",
+          "value": "29365657,86400"
+        },
+        {
+          "name": "lscache-qb/sessionExpiration",
+          "value": "1756755465982"
+        },
+        {
+          "name": "is-app-admin-anywhere-v1",
+          "value": "{\"value\":true,\"expiry\":1757275439576}"
+        },
+        {
+          "name": "isReactNativeWebView",
+          "value": "false"
+        }
+      ]
+    }
+  ]
+}
